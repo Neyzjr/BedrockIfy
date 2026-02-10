@@ -1,0 +1,55 @@
+# BedrockIfy
+
+[![download button](https://i.imgur.com/3Dm4p65.png)](https://tinyurl.com/2yxcepj2)
+
+BedrockIfy is a fabric Minecraft Mod that implements some useful Minecraft Bedrock Edition features into Minecraft Java Edition.
+
+## Features
+- Bedrock-like loading screens with helpful tips.
+- Third person eating animations.
+- Position and "paper doll" overlay.
+- Saving status overlay.
+- Bedrock Crafting Recipes (Toggleable).
+- Bedrock-like chat.
+- Idle hand animations.
+- Held item descriptions (enchantments, books and potions).
+- Reach-around block placement.
+- Quick armour swap.
+
+Bedrockify also includes "eye-candy" features like the ability use the rotating title screen background in all option screens instead of the boring vanilla dirt background.
+
+#### ScreenShots:
+![HUD](https://github.com/juancarloscp52/BedrockIfy/blob/master/readme%20images/HUD.png)
+![Loading Screen](https://github.com/juancarloscp52/BedrockIfy/blob/master/readme%20images/loading%20screen.png)
+![Reach-around block placement](https://github.com/juancarloscp52/BedrockIfy/blob/master/readme%20images/reacharound.gif)
+![Rotating background on all screens](https://github.com/juancarloscp52/BedrockIfy/blob/master/readme%20images/menu.gif)
+
+## Installation:
+This mod requires [Fabric](https://fabricmc.net/use/) and [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api). You can  BedrockIfy from the _[](https://github.com/juancarloscp52/BedrockIfy/)_ tab in github or through the CurseForge page.
+Drop BedrockIfy and Fabric API JARs inside the mods folder.
+## Building from source:
+Under Linux / Mac OS
+```shell script
+git clone https://github.com/juancarloscp52/BedrockIfy/
+cd BedrockIfy
+./gradlew build
+```
+Under Windows
+```shell script
+git clone https://github.com/juancarloscp52/BedrockIfy/
+cd BedrockIfy
+gradlew build
+```
+You can find the built JARs inside BedrockIfy/build/libs
+
+## Enhancing your Bedrock-like experience
+
+Here is a list of other Fabric Mods that can improve your BedrockLike Experience:
+- [LambdaControls](https://github.com/LambdAurora/LambdaControls) - Enables Controller/touchscreen support and other useful tweaks.
+- [BedrockWaters](https://github.com/2Retr0/BedrockWaters) - Ports all Bedrock Edition biome specific water color.
+- [Snowy Leaves](https://github.com/Ashley1227/snowy-leaves) - Leaves will turn white while snowing.
+- [TelePistons](https://www.curseforge.com/minecraft/mc-mods/telepistons) - This mod adds the  telescopic piston arm animation from Bedrock Edition.
+
+
+## License
+Bedrockify is released under the free and open-source [GPL-3.0 License](https://github.com/juancarloscp52/BedrockIfy/blob/master/LICENSE).
